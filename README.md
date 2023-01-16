@@ -1,15 +1,15 @@
 ### Hi there!! ⋆｡˚ I'm Josi
-･ﾟ* Pronouns: She/her
+･ﾟ* Pronouns: She/they
 
 ＊\*•̩̩͙✩•̩̩͙\*˚͙⊱••✴••̩̩͙⊰•＊\*•̩̩͙✩•̩̩͙\*˚
 
-I'm a full-stack developer with eight passionate years of coding behind me
+I'm a full-stack developer with ten passionate years of coding behind me
 
-I'm currently Working on anything that I happen to think of
+I'm currently working on Fable, a video game.
 
-I'm currently learning Flutter, Dart, and Threading
+I'm currently learning more about Unity!
 
-I'm currently collaborating on nothing big! Reach out if you're interested!
+I'm currently collaborating on Fable with (Ton)[https://github.com/t0ntr4n] and (SleepingMage)[https://github.com/SleepingMage]!
 
 Ask me about anything!
 
