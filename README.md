@@ -5,7 +5,7 @@
 
 I'm a full-stack developer with ten passionate years of coding behind me
 
-I'm currently working on Fable, a video game.
+I'm currently working on The Epic of Nalia, a video game.
 
 I'm currently learning more about Unity!
 
