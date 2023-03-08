@@ -9,7 +9,7 @@ I'm currently working on The Epic of Nalia, a video game.
 
 I'm currently learning more about Unity!
 
-I'm currently collaborating on Fable with [Ton](https://github.com/t0ntr4n) and [SleepingMage](https://github.com/SleepingMage)!
+I'm currently collaborating on The Epic of Nalia with [Ton](https://github.com/t0ntr4n) and [SleepingMage](https://github.com/SleepingMage)!
 
 Ask me about anything!
 
