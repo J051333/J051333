@@ -17,6 +17,8 @@ I'm reachable through Instagram DMs!
 
 Fun fact: I'm bi! 🏳️‍🌈
 
+I run an i5-12500H and a 3050 Ti with 16GB of DDR4 3200MHz RAM. I run Windows 11, but I love Linux and use a Kali VM.
+
 <!--
 **J051333/J051333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
