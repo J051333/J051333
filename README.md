@@ -7,15 +7,9 @@ I'm a full-stack developer with ten passionate years of coding behind me
 
 I'm currently working on The Epic of Nalia, a video game.
 
-I'm currently learning more about Unity!
-
 I'm currently collaborating on The Epic of Nalia with [Ton](https://github.com/t0ntr4n) and [SleepingMage](https://github.com/SleepingMage)!
 
-Ask me about anything!
-
 I'm reachable through Instagram DMs!
-
-Fun fact: I'm bi! 🏳️‍🌈
 
 I run an i5-12500H and a 3050 Ti with 16GB of DDR4 3200MHz RAM. I run Windows 11, but I love Linux and use a Kali VM.
 
