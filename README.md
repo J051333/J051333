@@ -1,29 +1,19 @@
-### Hi there!! ⋆｡˚ I'm Josi
-･ﾟ* Pronouns: She/they
+### Hi, I'm Josi
 
-＊\*•̩̩͙✩•̩̩͙\*˚͙⊱••✴••̩̩͙⊰•＊\*•̩̩͙✩•̩̩͙\*˚
+<div align=center><img alt="josi's stats" src="https://readme-stats-j051333s-projects.vercel.app/api?username=J051333&show_icons=true&theme=cobalt&rank_icon=github"></img> <img alt="josi's top languages" src="https://readme-stats-j051333s-projects.vercel.app/api/top-langs/?username=J051333&layout=compact&theme=cobalt&langs_count=8&exclude_repo=j051333.github.io,readme-stats"></img></div>
 
-I'm a full-stack developer with ten passionate years of coding behind me
+<p align=center>· · · · · · · · · · ·</p>
 
-I'm currently working on The Epic of Nalia, a video game.
+Pronouns: She/they
 
-I'm currently collaborating on The Epic of Nalia with [Ton](https://github.com/t0ntr4n) and [SleepingMage](https://github.com/SleepingMage)!
+I love coding, I'm driven by an endless curiosity and have to know how things work. Currently a sophomore/junior (it's weird) in Uni for my B.S. in Comp Sci. I love cats and music, and play the flute and the oboe. 
 
-I'm reachable through Instagram DMs!
+DM me on Instagram!
 
-I run an i5-12500H and a 3050 Ti with 32GB of DDR4 3200MHz RAM. I run Windows 11, but I love Linux and use a Kali VM.
+Epic of Nalia is on hold, but still planned with [Ton](https://github.com/t0ntr4n) and [SleepingMage](https://github.com/SleepingMage)!
 
-<!--
-**J051333/J051333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run an i5-12500H and a 3050 Ti with 32GB of DDR4 3200MHz RAM. I run Windows 11 (though often wish I didn't) and have some experience with Linux.
 
-Here are some ideas to get you started:
+I've been fascinated with programming since the third grade, which in my head is a long time. I started with JavaScript during my free time in school with [CodeCademy](https://codecademy.com). A few `console.log`'s here and some text-based RPG's there. In fourth grade, I took a Udemy course on SQL with my dad. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In fifth grade, I picked up a Udemy course on C++, and this was the first time I took coding seriously. I learned a ton and have known that's what I wanted to do ever since. In high school, I took a year of engineering before I swapped over to the computer science academy and took three years of AP and dual enrollment coding classes (and participated in some networking/IT fundamentals) and got certified in Java, JS and HTML, and Software Development in C#. I graduated in 2023 and now I'm attending a univeristy for computer science. Woohoo now you know my life story (ish)!
