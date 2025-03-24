@@ -10,7 +10,7 @@ I love coding, I'm driven by an endless curiosity and have to know how things wo
 
 DM me on Instagram!
 
-Epic of Nalia is on hold, but still planned with [Ton](https://github.com/t0ntr4n) and [SleepingMage](https://github.com/SleepingMage)! Also, check out some of my super cool sibling's super cool stuff: [Sa9m](https://github.com/intentionalDisaster99)!
+Currently working on Estro-Tracker with my super cool sibling [Sa9m](https://github.com/intentionalDisaster99)!
 
 I run an i5-12500H and a 3050 Ti with 32GB of DDR4 3200MHz RAM. I run Windows 11 (though often wish I didn't) and have some experience with Linux.
 
