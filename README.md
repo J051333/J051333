@@ -6,7 +6,7 @@
 
 Pronouns: She/they
 
-I love coding, I'm driven by an endless curiosity and have to know how things work. Currently a sophomore/junior (it's weird) in Uni for my B.S. in Comp Sci. I love cats and music, and play the flute and the oboe. 
+I love coding, I'm driven by an endless curiosity and have to know how things work. Currently a junior (it's weird) in Uni for my B.S. in Comp Sci. I love cats and music, and play the flute and the oboe. 
 
 DM me on Instagram!
 
