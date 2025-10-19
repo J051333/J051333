@@ -12,7 +12,7 @@ DM me on Instagram!
 
 Currently working on Estro-Tracker with my super cool sibling [Sa9m](https://github.com/intentionalDisaster99)!
 
-I run an i5-12500H and a 3050 Ti with 32GB of DDR4 3200MHz RAM. I run Windows 11 (though often wish I didn't) and have some experience with Linux.
+I run a 7600X and RX 7800XT on 32GB of DDR5 6000MHz RAM with Win11 and an i5-12500H and a 3050 Ti with 32GB of DDR4 3200MHz RAM with Linux Mint.
 
 I've been fascinated with programming since the third grade, which in my head is a long time. I started with JavaScript during my free time in school with [CodeCademy](https://codecademy.com). A few `console.log`'s here and some text-based RPG's there. In fourth grade, I took a Udemy course on SQL with my dad. 
 
