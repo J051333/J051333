@@ -6,14 +6,10 @@
 
 Pronouns: She/they
 
-I love coding, I'm driven by an endless curiosity and have to know how things work. Currently a junior (it's weird) in Uni for my B.S. in Comp Sci. I love cats and music, and play the flute and the oboe. 
+I love coding, I'm driven by an endless curiosity and have to know how things work. Currently a senior (it's weird) in Uni for my B.S. in Comp Sci. I love cats and music, and play the flute and the oboe. 
 
 DM me on Instagram!
 
 Currently working on Estro-Tracker with my super cool sibling [Sa9m](https://github.com/intentionalDisaster99)!
 
-I run a 7600X and RX 7800XT on 32GB of DDR5 6000MHz RAM with Win11 and an i5-12500H and a 3050 Ti with 32GB of DDR4 3200MHz RAM with Linux Mint.
-
-I've been fascinated with programming since the third grade, which in my head is a long time. I started with JavaScript during my free time in school with [CodeCademy](https://codecademy.com). A few `console.log`'s here and some text-based RPG's there. In fourth grade, I took a Udemy course on SQL with my dad. 
-
-In fifth grade, I picked up a Udemy course on C++, and this was the first time I took coding seriously. I learned a ton and have known that's what I wanted to do ever since. In high school, I took a year of engineering before I swapped over to the computer science academy and took three years of AP and dual enrollment coding classes (and participated in some networking/IT fundamentals) and got certified in Java, JS and HTML, and Software Development in C#. I graduated in 2023 and now I'm attending a univeristy for computer science. Woohoo now you know my life story (ish)!
+I run a 7600X and RX 7800XT on 32GB of DDR5 6000MHz RAM with Win11 and an i5-12500H and a 3050 Ti with 32GB of DDR4 3200MHz RAM with Fedora.
